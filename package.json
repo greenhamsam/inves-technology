@@ -1,17 +1,13 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "4.1.1",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "title": "Inves Technology",
+    "name": "inves-technology",
+    "description": "Building software for the future of finance",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "finance",
+        "software",
+        "fintech",
+        "technology"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
         "email": "feedback@startbootstrap.com"
